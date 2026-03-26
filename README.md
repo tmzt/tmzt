@@ -57,7 +57,7 @@ As part of the Personal OS mission (and the wider ecosystem) I have been working
 
 | Project | Description |
 | :--- | :--- |
-| **[deadsimpleseo](https://github.com/tmzt/deadsimpleseo)** | Vite plugin to render React pages to static html. Useful for including easily crawable content in your app directly. |
+| **[deadsimpleseo](https://github.com/deadsimpleseo/vite-deadsimpleseo)** | Vite plugin to render React pages to static html. Useful for including easily crawable content in your app directly. |
 | **[rusty-refinery](https://github.com/tmzt/rusty-refinery)** | A simple implementation of Gas Town MCP/ACP server with prd (spec) and wt (worktree) beads. Uses Redis for cordination.|
 
 ### Contact
