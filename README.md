@@ -4,7 +4,7 @@
 
 ## Professional Background
 
-Senior software developer and Senior DevOps specialist with 15+ years experience. As a life-long programmer, learner, and systems thinker I adapt quickly to new technologies and paradigms.
+I'm a Senior Software Developer and Senior DevOps specialist with 15+ years experience. As a life-long programmer, learner, and systems thinker I adapt quickly to new technologies and paradigms.
 
 ## Current Projects
 
@@ -46,7 +46,7 @@ As part of the Personal OS mission (and the wider ecosystem) I have been working
 
 This is the UI library (and much more) that powers PersonalOS. It compiles TSX directly into a VM that can be interpreted by a compute shader and renders SDF to a pixel shader. It's basically a mobile version of React including hooks support without the JS runtime (and no React code).
 
-It is also the VM that enables deterministic skills, vector-based queries in TSX (inspired by Cypher and GraphQL), and much more.
+It is also the VM that enables deterministic skills, vector-based queries in TSX (inspired by Cypher and GraphQL) that execute directly in Sqlite (no SQL parsing), and much more.
 
 It has a security system that prevents secrets from even being used (entropy detection), capabilities that limit access to personal data and hardware resources like your camera and microphone, as well as automatic API authentication. Inspired by blockchain VMs, it limits looping and strictly applies a 'gas' system to tax instructions which also limits run-away processes, battery draining, etc.
 
