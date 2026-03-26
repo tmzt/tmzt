@@ -49,11 +49,22 @@ It is also the VM that enables deterministic skills, vector-based queries in TSX
 
 It has a security system that prevents secrets from even being used (entropy detection), capabilities that limit access to personal data and hardware resources like your camera and microphone, as well as automatic API authentication. Inspired by blockchain VMs, it limits looping and strictly applies a 'gas' system to tax instructions which also limits run-away processes, battery draining, etc.
 
+### Other Projects
+
+### Local AI
+
+As part of the Personal OS mission (and the wider ecosystem) I have been working on various libraries for Local AI:
+
+| Project | Description |
+| :--- | :--- |
+| **[deadsimpleseo](https://github.com/tmzt/deadsimpleseo)** | Vite plugin to render React pages to static html. Useful for including easily crawable content in your app directly. |
+| **[rusty-refinery](https://github.com/tmzt/rusty-refinery)** | A simple implementation of Gas Town MCP/ACP server with prd (spec) and wt (worktree) beads. Uses Redis for cordination.|
+
 ### Contact
 
 I'm open to contracting and full-time work via my LinkedIn at [/in/timothymeade](https://linkedin.com/in/timothymeade). View my full work history and other details there.
 
-I'm building in public on X @tmztmobile.
+I'm building in public on *𝕏* @tmztmobile.
 
 Reach me via email at [info@chitin.sh](mailto:info@chitin.sh).
 
