@@ -32,13 +32,12 @@ The ultimate goal is to build a full OS removing the graphical features of Andro
 
 As part of the Personal OS mission (and the wider ecosystem) I have been working on various libraries for Local AI:
 
-#### [rusty-genius](https://github.com/tmzt/rusty-genius) Opinionated Rust bindings to llama.cpp with a message-passing interface.
-
-#### [smol-genius](https://github.com/tmzt/smol-genius) C Library implementing small language and vision models, speech-to-text with thinker interface, and others. Based on @antirez's qwen-asr.
-
-#### [shady-thinker](https://github.com/tmzt/shady-thinker) Rust+WGPU library for LLMs including recent innovations such as TurboQuant, online learning (Lora-JIT), etc. Main driver of LocalAI on PersonalOS. Also runs on Mac.
-
-#### [facecrab](https://github.com/tmzt/facecrab) HuggingFace model downloader supporting GGUF, Safetensors, and MLX formats in Rust. Library and CLI version.
+| Project | Description |
+| :--- | :--- |
+| **[rusty-genius](https://github.com/tmzt/rusty-genius)** | Opinionated Rust bindings to llama.cpp with a message-passing interface. |
+| **[smol-genius](https://github.com/tmzt/smol-genius)** | C Library implementing small language and vision models, speech-to-text with thinker interface, and others. Based on @antirez's qwen-asr. |
+| **[shady-thinker](https://github.com/tmzt/shady-thinker)** | Rust+WGPU library for LLMs including recent innovations such as TurboQuant, online learning (Lora-JIT), etc. Main driver of LocalAI on PersonalOS. Also runs on Mac. |
+| **[facecrab](https://github.com/tmzt/facecrab)** | HuggingFace model downloader supporting GGUF, Safetensors, and MLX formats in Rust. Library and CLI version. |
 
 ### MatterStream
 
