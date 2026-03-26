@@ -4,7 +4,7 @@
 
 ## Professional Background
 
-I'm a Senior Software Developer and Senior DevOps specialist with 15+ years experience. As a life-long programmer, learner, and systems thinker I adapt quickly to new technologies and paradigms.
+I'm a Senior Software Developer and Senior DevOps specialist with 15+ years of experience. As a lifelong programmer, learner, and systems thinker I adapt quickly to new technologies and paradigms.
 
 ## Current Projects
 
@@ -14,11 +14,11 @@ For the last four months I've been building the future one idea at a time.
 
 This is the big one. I'm starting with a simple APK you can install on an Android phone. It will give you:
 
-1. ***A local AI assistant with a real memory core***. It learns who you are, what you need, how you think, how to be the best personal/executive assistant it can be. It does this without the massive token spend and instability of a system like OpenClaw.
+1. ***A local AI assistant with a real memory core***. It learns who you are, what you need, how you think, and how to be the best personal/executive assistant it can be. It does this without the massive token spend and instability of a system like OpenClaw.
 
-2. ***Voice-driven but not voice-only.*** Voice is a critical part of the system that allows you to direct it's behavior, but the interface is graphical. It uses cards which are like mini-apps but without the walled garden of traditional mobile apps. They are directly connected to the ***memory core***. They update in real-time and can be created and destroyed with your own words. You can even manifest a full featured card out of nothing with just your voice.
+2. ***Voice-driven but not voice-only.*** Voice is a critical part of the system that allows you to direct its behavior, but the interface is graphical. It uses cards which are like mini-apps but without the walled garden of traditional mobile apps. They are directly connected to the ***memory core***. They update in real-time and can be created and destroyed with your own words. You can even manifest a full featured card out of nothing with just your voice.
 
-3. ***Personal sovereignty that extends to your Chitin Sandbox.*** A 24/7 agent that accepts tasks and executes them in the background.
+3. ***Personal sovereignty that extends to your Chitin Sandbox.*** Chitin Sandbox gives you a 24/7 agent that accepts tasks and executes them in the background. You can communicate with it via communication channels of your choice, as well as directly from Personal OS.
 
 #### Pro Tip
 
