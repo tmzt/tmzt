@@ -64,7 +64,7 @@ As part of the Personal OS mission (and the wider ecosystem) I have been working
 
 I'm open to contracting and full-time work via my LinkedIn at [/in/timothymeade](https://linkedin.com/in/timothymeade). View my full work history and other details there.
 
-I'm building in public on *𝕏* @[tmztmobile](x.com/@tmztmobile).
+I'm building in public on *𝕏* [@tmztmobile](https://x.com/@tmztmobile).
 
 Reach me via email at [info@chitin.sh](mailto:info@chitin.sh).
 
