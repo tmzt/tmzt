@@ -51,10 +51,6 @@ It has a security system that prevents secrets from even being used (entropy det
 
 ### Other Projects
 
-### Local AI
-
-As part of the Personal OS mission (and the wider ecosystem) I have been working on various libraries for Local AI:
-
 | Project | Description |
 | :--- | :--- |
 | **[deadsimpleseo](https://github.com/deadsimpleseo/vite-deadsimpleseo)** | Vite plugin to render React pages to static html. Useful for including easily crawable content in your app directly. |
